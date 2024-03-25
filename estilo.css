@@ -1,0 +1,14 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    height:100vh;
+    position: relative;
+    background-color: aqua;
+}
+section#telefone{
+    background: url('../projeto-redes-socias-/pacote-d013/imagens/frame-iphone.png');
+    
+}
