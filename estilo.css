@@ -27,3 +27,11 @@ section#telefone{
     width: 310px;
     background: url(../projeto-redes-socias-/pacote-d013/imagens/frame-iphone.png)no-repeat;
 }
+iframe#tela{
+    position: relative;
+    top: 91px;
+    left: 28px;
+    height: 455px;
+    width: 252px;
+
+}
